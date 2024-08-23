@@ -4,6 +4,9 @@
 
 TeachersReward is a project aimed at rewarding teachers with tokens based on their contributions. The system leverages blockchain technology to ensure transparency and security. The project consists of a smart contract for token management and a user interface for interacting with the contract.
 
+![image](https://github.com/user-attachments/assets/3edebe3f-5516-46b3-8ded-15d4e4a4765d)
+
+
 ## Features
 
 - **Token Management**: Issue, verify, and manage rewards using blockchain technology.
